@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body {
+    font: 12px Helvetica,Arial,sans-serif;
+    color: #282828;
+    background: #1c212f url(../images/bg.png) repeat;
+}
+.content {
+    background-color: rgb(239,238,233);
+}
+.bangcontent {
+    
+    border-radius: 5px;
+    border: solid 1px rgb(158, 158, 158);
+    background-color: white;
+    display: block;
+    margin-top: 95px;
+}
+.bangcontent p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.bangcontent {
+    font-size: 14px;
+}
+.ngonngu {
+    font-size: 13px;
+}

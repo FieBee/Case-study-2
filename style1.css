@@ -75,3 +75,20 @@ a p{
         text-align: center;
     }
 
+.dieuhuong {
+        visibility: hidden;
+        display: flex;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+        background-color: #071C25;
+    }
+    .dieuhuong a{
+        display: flex;
+        justify-content: center;
+        color: white;
+        
+    }
+.bangdieuhuong:hover .dieuhuong{
+    visibility: visible;
+}
